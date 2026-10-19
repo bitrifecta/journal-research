@@ -1,0 +1,7 @@
+{
+  "venvPath": "/home/bitrifecta/journal-research",
+  "venv": ".venv",
+  "extraPaths": [
+    "/home/bitrifecta/journal-research/.venv/lib/python3.14/site-packages"
+  ]
+}
